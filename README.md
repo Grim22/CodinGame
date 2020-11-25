@@ -7,7 +7,7 @@
     <h1>CodinGame</h1>
     <p><br></p>
     <h2>42 Network Challenge 2020: </h2>
-    <img align="center" src="Screen Shot 2020-03-12 at 10.26.30 AM.png" alt="Screenshot of the game" />
+    <img align="center" src="play_42.png" alt="Screenshot of the game" />
     <p>Python used.&nbsp;</p>
     <p>Finished 52/358</p>
     <h2><br></h2>
